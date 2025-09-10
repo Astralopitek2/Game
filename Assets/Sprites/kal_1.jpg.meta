@@ -1,0 +1,528 @@
+fileFormatVersion: 2
+guid: 85abc1cefd125fe438faa02929224b50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2363805808249903855
+    second: kal_1_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kal_1_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 577
+        width: 212
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -48, y: -47}
+        - {x: -83, y: -116}
+        - {x: -2, y: -99}
+        - {x: 69, y: -116}
+        - {x: 64, y: -33}
+        - {x: 82, y: 58}
+        - {x: 67, y: 116}
+        - {x: -5, y: 81}
+        - {x: -71, y: 110}
+        - {x: -85, y: 6}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11562413423123fd0800000000000000
+      internalID: -2363805808249903855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 808
+        width: 222
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -90, y: -51.5}
+        - {x: -31, y: -31.5}
+        - {x: 1, y: -62.5}
+        - {x: 77, y: -64.5}
+        - {x: 83, y: -16.5}
+        - {x: 111, y: 37.5}
+        - {x: 44, y: 68.5}
+        - {x: -51, y: 45.5}
+        - {x: -84, y: 21.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe0d15b18590314b931f2c172fdbd47
+      internalID: 367510573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 749
+        width: 228
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -100, y: 33.5}
+        - {x: -109, y: -74.5}
+        - {x: 34, y: -71.5}
+        - {x: 51, y: -38.5}
+        - {x: 114, y: 16.5}
+        - {x: 110, y: 72.5}
+        - {x: 48, y: 71.5}
+        - {x: -65, y: 99.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080a90d5b0d5b394f9750537e2f2e1d3
+      internalID: 298191614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 712
+        width: 113
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -28.5, y: -66}
+        - {x: 53.5, y: -37}
+        - {x: 35.5, y: 42}
+        - {x: -0.5, y: 40}
+        - {x: -41.5, y: 66}
+        - {x: -48.5, y: 10}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107e2f031fe4e464a89ac8066ab330ec
+      internalID: -468368984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_4
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 754
+        width: 169
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -84.5, y: 19}
+        - {x: -76.5, y: -51}
+        - {x: 40.5, y: -60}
+        - {x: 74.5, y: 28}
+        - {x: -40.5, y: 64}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2897e998b0165c847b955ecbd7dfbb39
+      internalID: -1453315297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_5
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 506
+        width: 246
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -92, y: -91.5}
+        - {x: -35, y: -73.5}
+        - {x: 68, y: -96.5}
+        - {x: 105, y: -26.5}
+        - {x: 72, y: 54.5}
+        - {x: -38, y: 72.5}
+        - {x: -123, y: 29.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d64edd0af3dc354096a72393f0a7ece
+      internalID: 916139418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_6
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 587
+        width: 196
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -54, y: -54.5}
+        - {x: 14, y: -66.5}
+        - {x: 84, y: -57.5}
+        - {x: 82, y: 52.5}
+        - {x: 15, y: 66.5}
+        - {x: -74, y: 34.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f32a90a9267944f889d51dedb9b6bf
+      internalID: 1184407013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 399
+        width: 179
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -72.5, y: -58}
+        - {x: 34.5, y: -64}
+        - {x: 88.5, y: -49}
+        - {x: 71.5, y: 24}
+        - {x: -0.5, y: 65}
+        - {x: -60.5, y: 18}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079d901862d038444ad035b37097bc27
+      internalID: 152276725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_8
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 291
+        width: 234
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -117, y: -1.5}
+        - {x: -79, y: -40.5}
+        - {x: -43, y: -119.5}
+        - {x: 32, y: -112.5}
+        - {x: 59, y: -60.5}
+        - {x: 115, y: -121.5}
+        - {x: 92, y: -37.5}
+        - {x: 115, y: 108.5}
+        - {x: 61, y: 99.5}
+        - {x: -64, y: 88.5}
+        - {x: -105, y: 108.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e4214b7def2314ab141fef54374d29
+      internalID: 588485867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_9
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 45
+        width: 248
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -116, y: -6}
+        - {x: -81, y: -82}
+        - {x: 3, y: -105}
+        - {x: 115, y: -46}
+        - {x: 105, y: 83}
+        - {x: 41, y: 102}
+        - {x: -92, y: 91}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ecc34d0b1bad1945bf2727c44f5b2ab
+      internalID: 1175055061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 269
+        width: 241
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -120.5, y: 45}
+        - {x: -55.5, y: 69}
+        - {x: -120.5, y: -43}
+        - {x: -102.5, y: -116}
+        - {x: 28.5, y: -169}
+        - {x: 120.5, y: -141}
+        - {x: 118.5, y: -42}
+        - {x: 105.5, y: -37}
+        - {x: 120.5, y: 81}
+        - {x: 78.5, y: 146}
+        - {x: 7.5, y: 169}
+        - {x: -106.5, y: 169}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead0148040af75c4d86b502f2894a02f
+      internalID: -1449611527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 535
+        width: 329
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -164.5, y: -24}
+        - {x: -131.5, y: -91}
+        - {x: -39.5, y: -100}
+        - {x: -21.5, y: -41}
+        - {x: -6.5, y: -89}
+        - {x: 127.5, y: -101}
+        - {x: 89.5, y: -45}
+        - {x: 164.5, y: 3}
+        - {x: 135.5, y: 80}
+        - {x: 90.5, y: 101}
+        - {x: 13.5, y: 51}
+        - {x: -55.5, y: 62}
+        - {x: -145.5, y: 35}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca45410784c193e43a89c7856ce8ecb1
+      internalID: 473878109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kal_1_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84
+        width: 273
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -111.5, y: -96}
+        - {x: 9.5, y: -71}
+        - {x: 118.5, y: -96}
+        - {x: 136.5, y: -31}
+        - {x: 113.5, y: 33}
+        - {x: 118.5, y: 97}
+        - {x: 25.5, y: 67}
+        - {x: -78.5, y: 114}
+        - {x: -128.5, y: 34}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e173290276edef42accd99ad91a230a
+      internalID: -100070048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8933935ab0a8b7c42a74eba326ed0444
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kal_1_0: -2363805808249903855
+      kal_1_1: 367510573
+      kal_1_10: -1449611527
+      kal_1_11: 473878109
+      kal_1_12: -100070048
+      kal_1_2: 298191614
+      kal_1_3: -468368984
+      kal_1_4: -1453315297
+      kal_1_5: 916139418
+      kal_1_6: 1184407013
+      kal_1_7: 152276725
+      kal_1_8: 588485867
+      kal_1_9: 1175055061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
